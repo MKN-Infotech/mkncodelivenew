@@ -1,0 +1,20 @@
+.scroll-container{
+
+  padding: 20px;
+  overflow: hidden;
+
+}
+
+.scroll-content{
+   animation: scroll 10s linear infinite;   
+}
+
+@keyframes scroll{
+
+  from{
+    transform: translateY(0%);
+  }
+  to{
+    transform:translateY(-103%);
+  }
+}

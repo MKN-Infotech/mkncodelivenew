@@ -1,0 +1,6 @@
+1- how to import fonts in react app.
+  
+   -> we go to google fonts and get the embeded code of the font named - poppins
+   -> then we paste the copied link in index.html
+   -> then we came to the index.css and create a class and give the font-family -poppins
+   -> import the index.css file in app.jsx and use it in yhe classname
